@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sarah Domingues
+# 👋 Hola, soy Sarah Domingues (@IAMdomingues)
 
 ### 🛡️ Especialista en Seguridad de Identidades (IAM) & Automatización
 **Residente en Santiago, Chile** 🇨🇱 | **Brasileña** 🇧🇷
@@ -15,7 +15,7 @@ Me especializo en fortalecer la postura de seguridad de las organizaciones a tra
 
 ---
 
-### 🛠️ Tech Stack & Skills (Technical Focus)
+### 🛠️ Tech Stack & Skills
 - **Identity & Access Management:** Microsoft Entra ID (Azure AD), RBAC, Conditional Access, PIM/PAM.
 - **Endpoint Security:** Microsoft Intune (MDM/MAM), Windows Autopilot, BitLocker, Defender for Endpoint.
 - **Automation & Scripting:** **PowerShell (Advanced)**, Microsoft Graph API, WMI.
@@ -24,18 +24,19 @@ Me especializo en fortalecer la postura de seguridad de las organizaciones a tra
 ---
 
 ### 📂 Proyectos Destacados / Key Projects
-*(Próximamente / Coming soon)*
-- **[IAM-Automation-Toolkit]**: Scripts de PowerShell para la gestión masiva de identidades en Entra ID.
-- **[Intune-Security-Baselines]**: Guías técnicas y configuraciones para despliegue seguro de estaciones de trabajo.
-- **[Audit-Log-Exporter]**: Automatización de reportes de auditoría utilizando Graph API.
+- 🚀 [**Security Automation Repository**](https://github.com/IAMdomingues/security-automation)
+  - [**IAM-Automation-Toolkit**](https://github.com/IAMdomingues/security-automation/tree/main/IAM-Automation-Toolkit/Scripts): Scripts de PowerShell para la gestión masiva de identidades.
+  - [**Script: Auditoría de Usuarios Inactivos**](https://github.com/IAMdomingues/security-automation/blob/main/IAM-Automation-Toolkit/Scripts/Audit-InactiveUsers.ps1) 🔍
+- 📋 **Intune-Security-Baselines**: Guías técnicas y configuraciones para despliegue seguro (Próximamente).
 
 ---
-### 📂 Certificaciones y Proyectos
-- [**Fortinet NSE 1 - Threat Landscape**] (Introduction to the Threat Landscape 3.0 - SPANIS) 🛡️
-- **ISC2 Candidate** (En curso) 🔐
-- **Microsoft Applied Skills** (Próximamente) ☁️
-- 
-- ---
+
+### 📂 Certificaciones / Certifications
+- 🛡️ [**Fortinet NSE 1 - Threat Landscape**](https://github.com/IAMdomingues/security-automation/tree/main/Certificaciones) 
+- 🔐 **ISC2 Candidate** (En curso)
+- ☁️ **Microsoft Applied Skills** (Próximamente)
+
+---
 
 ### 📫 Contacto / Contact
 - **LinkedIn:** [linkedin.com/in/sarah-domingues-8a5794149](https://www.linkedin.com/in/sarah-domingues-8a5794149)
