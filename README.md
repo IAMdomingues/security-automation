@@ -30,6 +30,12 @@ Me especializo en fortalecer la postura de seguridad de las organizaciones a tra
 - **[Audit-Log-Exporter]**: Automatización de reportes de auditoría utilizando Graph API.
 
 ---
+### 📂 Certificaciones y Proyectos
+- [**Fortinet NSE 1 - Threat Landscape**] (Introduction to the Threat Landscape 3.0 - SPANIS) 🛡️
+- **ISC2 Candidate** (En curso) 🔐
+- **Microsoft Applied Skills** (Próximamente) ☁️
+- 
+- ---
 
 ### 📫 Contacto / Contact
 - **LinkedIn:** [linkedin.com/in/sarah-domingues-8a5794149](https://www.linkedin.com/in/sarah-domingues-8a5794149)
